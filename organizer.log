@@ -1,0 +1,6 @@
+2026-11-01 15:37:02,050 - INFO - Moved backup.zip to C:\Users\Hari chandana\Datheon_Python_Programming_Internship\TestFiles\Archives
+2026-11-01 15:37:02,053 - INFO - Moved notes.pdf to C:\Users\Hari chandana\Datheon_Python_Programming_Internship\TestFiles\Documents
+2026-11-01 15:37:02,055 - INFO - Moved photo.jpg to C:\Users\Hari chandana\Datheon_Python_Programming_Internship\TestFiles\Images
+2026-11-01 15:37:02,057 - INFO - Moved program.py to C:\Users\Hari chandana\Datheon_Python_Programming_Internship\TestFiles\Code
+2026-11-01 15:37:02,059 - INFO - Moved video.mp4 to C:\Users\Hari chandana\Datheon_Python_Programming_Internship\TestFiles\Videos
+2026-11-01 15:37:02,069 - INFO - Organization completed. Moved=5, Skipped=0, Failed=0

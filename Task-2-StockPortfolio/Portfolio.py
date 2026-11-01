@@ -1,13 +1,8 @@
-
 import csv
 import os
 from datetime import datetime
 import yfinance as yf
-
-# Dictionary to store portfolio positions
 portfolio = {}
-
-# Function to get current stock price
 def get_current_price(symbol):
     try:
         # Yahoo Finance uses BRK-B instead of BRK.B
@@ -27,9 +22,6 @@ def get_current_price(symbol):
 
     except Exception:
         return None
-
-
-# Function to add stocks to portfolio
 def add_stock():
     symbol = input("Enter stock ticker symbol: ").upper()
 
